@@ -30,6 +30,12 @@
     "CommonJS/Modules/Transport/A",
     "https://github.com/amdjs/amdjs-api/wiki/AMD"
   ],
+  "bin": {
+    "venus": "./node_modules/.bin/venus"
+  },
+  "scripts": {
+    "test": "venus run -t tests/src/ -n"
+  },
   "devDependencies": {
     "jshint":         "0.9.1",
     "futures":        "2.1.0",
