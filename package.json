@@ -47,5 +47,5 @@
     "venus":          "0.0.2"
   },
   "dependencies": {},
-  "engine":         "node >= 0.4.10"
+  "engine":         "node >= 0.8.0"
 }
