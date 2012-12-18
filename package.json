@@ -34,7 +34,7 @@
     "venus": "./node_modules/.bin/venus"
   },
   "scripts": {
-    "test": "venus run -t tests/src/ -n"
+    "test": "phantomjs --version"
   },
   "devDependencies": {
     "jshint":         "0.9.1",
