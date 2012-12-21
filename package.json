@@ -44,7 +44,7 @@
     "optimist":       "0.3.4",
     "express":        "3.0.0",
     "mkdirp":         "0.3.4",
-    "venus":          "0.0.2"
+    "venus":          "0.0.2a"
   },
   "dependencies": {},
   "engine":         "node >= 0.8.0"
